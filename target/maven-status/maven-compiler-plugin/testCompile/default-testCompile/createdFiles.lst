@@ -1,0 +1,4 @@
+com/planittesting/cloud/jupiter/testRunner/TestRunner.class
+com/planittesting/cloud/jupiter/stepDefinitions/ContactSteps.class
+com/planittesting/cloud/jupiter/stepDefinitions/ShopSteps.class
+com/planittesting/cloud/jupiter/stepDefinitions/Hooks.class

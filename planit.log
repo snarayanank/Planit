@@ -1,0 +1,338 @@
+[INFO ] 2021-06-15 15:41:01.344 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:41:01.345 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:41:05.176 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:41:05.754 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:41:05.880 [main] ContactPage - Validated Forename error message on contact page as Forename is required
+[INFO ] 2021-06-15 15:41:05.942 [main] ContactPage - Validated Email error message on contact page as Email is required
+[INFO ] 2021-06-15 15:41:05.992 [main] ContactPage - Validated Message error message on contact page as Message is required
+[INFO ] 2021-06-15 15:41:06.033 [main] ContactPage - Entered Forename on contact page as Sathiya
+[INFO ] 2021-06-15 15:41:06.068 [main] ContactPage - Entered Email on contact page as snarayanank@gmail.com
+[INFO ] 2021-06-15 15:41:06.114 [main] ContactPage - Entered Message on contact page as Enjoyed shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:41:16.182 [main] ContactPage - No Forename validation errors are present on the contact page
+[INFO ] 2021-06-15 15:41:26.202 [main] ContactPage - No email validation errors are present on the contact page
+[INFO ] 2021-06-15 15:41:36.218 [main] ContactPage - No message validation errors are present on the contact page
+[INFO ] 2021-06-15 15:41:39.741 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:41:39.742 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:41:43.304 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:41:43.594 [main] ContactPage - Entered Forename on contact page as Tester1
+[INFO ] 2021-06-15 15:41:43.621 [main] ContactPage - Entered Email on contact page as tester1@gmail.com
+[INFO ] 2021-06-15 15:41:43.668 [main] ContactPage - Entered Message on contact page as Enjoyed shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:41:43.939 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:41:45.072 [main] ContactPage - Feedback submission confirmation => Thanks Tester1, we appreciate your feedback.
+[INFO ] 2021-06-15 15:41:47.790 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:41:47.790 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:41:51.287 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:41:51.553 [main] ContactPage - Entered Forename on contact page as Tester2
+[INFO ] 2021-06-15 15:41:51.584 [main] ContactPage - Entered Email on contact page as tester2@gmail.com
+[INFO ] 2021-06-15 15:41:51.613 [main] ContactPage - Entered Message on contact page as Not happy with shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:41:51.869 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:41:55.551 [main] ContactPage - Feedback submission confirmation => Thanks Tester2, we appreciate your feedback.
+[INFO ] 2021-06-15 15:41:58.489 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:41:58.489 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:42:02.087 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:42:02.348 [main] ContactPage - Entered Forename on contact page as Tester3
+[INFO ] 2021-06-15 15:42:02.371 [main] ContactPage - Entered Email on contact page as tester3@gmail.com
+[INFO ] 2021-06-15 15:42:02.397 [main] ContactPage - Entered Message on contact page as Need a refund for an incorrect order
+[INFO ] 2021-06-15 15:42:02.649 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:42:03.832 [main] ContactPage - Feedback submission confirmation => Thanks Tester3, we appreciate your feedback.
+[INFO ] 2021-06-15 15:42:06.549 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:42:06.549 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:42:10.021 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:42:10.334 [main] ContactPage - Entered Forename on contact page as Tester4
+[INFO ] 2021-06-15 15:42:10.359 [main] ContactPage - Entered Email on contact page as tester4@gmail.com
+[INFO ] 2021-06-15 15:42:10.392 [main] ContactPage - Entered Message on contact page as Not received the items that I ordered
+[INFO ] 2021-06-15 15:42:10.652 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:42:25.111 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:42:25.111 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:42:28.428 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:42:28.764 [main] ContactPage - Entered Forename on contact page as Tester5
+[INFO ] 2021-06-15 15:42:28.793 [main] ContactPage - Entered Email on contact page as tester5@gmail.com
+[INFO ] 2021-06-15 15:42:28.828 [main] ContactPage - Entered Message on contact page as Satisfied with the quality of the Toys
+[INFO ] 2021-06-15 15:42:29.090 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:42:42.304 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:42:42.305 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:42:45.837 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:42:46.362 [main] ShopPage - Added Funny Cow to cart
+[INFO ] 2021-06-15 15:42:46.646 [main] ShopPage - Added Funny Cow to cart
+[INFO ] 2021-06-15 15:42:46.959 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:42:47.288 [main] CartPage - 2 quantity of Funny Cow is added to cart
+[INFO ] 2021-06-15 15:42:47.342 [main] CartPage - 1 quantity of Fluffy Bunny is added to cart
+[INFO ] 2021-06-15 15:42:47.355 [main] CartPage - Total number of items added to cart is 3
+[INFO ] 2021-06-15 15:42:49.847 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:42:49.848 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:42:53.107 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:42:53.606 [main] ShopPage - Added Stuffed Frog to cart
+[INFO ] 2021-06-15 15:42:53.845 [main] ShopPage - Added Stuffed Frog to cart
+[INFO ] 2021-06-15 15:42:54.151 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:42:54.408 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:42:54.666 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:42:54.918 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:42:55.171 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:42:55.495 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:42:55.768 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:42:56.041 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:42:56.397 [main] CartPage - 2 quantity of Stuffed Frog is added to cart
+[INFO ] 2021-06-15 15:42:56.451 [main] CartPage - 5 quantity of Fluffy Bunny is added to cart
+[INFO ] 2021-06-15 15:42:56.514 [main] CartPage - 3 quantity of Valentine Bear is added to cart
+[INFO ] 2021-06-15 15:42:56.529 [main] CartPage - Total number of items added to cart is 10
+[INFO ] 2021-06-15 15:42:56.577 [main] CartPage - Stuffed Frog price in cart is same as listed price 10.99
+[INFO ] 2021-06-15 15:42:56.643 [main] CartPage - Stuffed Frog subtotal added to cart is 21.98
+[INFO ] 2021-06-15 15:42:56.681 [main] CartPage - Fluffy Bunny price in cart is same as listed price 9.99
+[INFO ] 2021-06-15 15:42:56.755 [main] CartPage - Fluffy Bunny subtotal added to cart is 49.95
+[INFO ] 2021-06-15 15:42:56.794 [main] CartPage - Valentine Bear price in cart is same as listed price 14.99
+[INFO ] 2021-06-15 15:42:56.878 [main] CartPage - Valentine Bear subtotal added to cart is 44.97
+[INFO ] 2021-06-15 15:42:56.887 [main] CartPage - Total price of items added to cart is 116.9
+[INFO ] 2021-06-15 15:43:31.327 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:43:31.336 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:43:34.789 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:43:35.233 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:43:35.350 [main] ContactPage - Validated Forename error message on contact page as Forename is required
+[INFO ] 2021-06-15 15:43:35.408 [main] ContactPage - Validated Email error message on contact page as Email is required
+[INFO ] 2021-06-15 15:43:35.464 [main] ContactPage - Validated Message error message on contact page as Message is required
+[INFO ] 2021-06-15 15:43:35.670 [main] ContactPage - Entered Forename on contact page as Sathiya
+[INFO ] 2021-06-15 15:43:35.862 [main] ContactPage - Entered Email on contact page as snarayanank@gmail.com
+[INFO ] 2021-06-15 15:43:36.041 [main] ContactPage - Entered Message on contact page as Enjoyed shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:43:46.110 [main] ContactPage - No Forename validation errors are present on the contact page
+[INFO ] 2021-06-15 15:43:56.154 [main] ContactPage - No email validation errors are present on the contact page
+[INFO ] 2021-06-15 15:44:06.173 [main] ContactPage - No message validation errors are present on the contact page
+[INFO ] 2021-06-15 15:44:08.087 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:44:08.104 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:44:10.961 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:44:11.305 [main] ContactPage - Entered Forename on contact page as Tester1
+[INFO ] 2021-06-15 15:44:11.379 [main] ContactPage - Entered Email on contact page as tester1@gmail.com
+[INFO ] 2021-06-15 15:44:11.462 [main] ContactPage - Entered Message on contact page as Enjoyed shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:44:11.579 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:44:16.540 [main] ContactPage - Feedback submission confirmation => Thanks Tester1, we appreciate your feedback.
+[INFO ] 2021-06-15 15:44:18.380 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:44:18.389 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:44:21.373 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:44:21.758 [main] ContactPage - Entered Forename on contact page as Tester2
+[INFO ] 2021-06-15 15:44:21.831 [main] ContactPage - Entered Email on contact page as tester2@gmail.com
+[INFO ] 2021-06-15 15:44:21.929 [main] ContactPage - Entered Message on contact page as Not happy with shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:44:22.072 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:44:35.881 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:44:35.885 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:44:39.144 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:44:39.494 [main] ContactPage - Entered Forename on contact page as Tester3
+[INFO ] 2021-06-15 15:44:39.561 [main] ContactPage - Entered Email on contact page as tester3@gmail.com
+[INFO ] 2021-06-15 15:44:39.642 [main] ContactPage - Entered Message on contact page as Need a refund for an incorrect order
+[INFO ] 2021-06-15 15:44:39.755 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:44:40.932 [main] ContactPage - Feedback submission confirmation => Thanks Tester3, we appreciate your feedback.
+[INFO ] 2021-06-15 15:44:42.336 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:44:42.341 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:44:45.134 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:44:45.473 [main] ContactPage - Entered Forename on contact page as Tester4
+[INFO ] 2021-06-15 15:44:45.534 [main] ContactPage - Entered Email on contact page as tester4@gmail.com
+[INFO ] 2021-06-15 15:44:45.609 [main] ContactPage - Entered Message on contact page as Not received the items that I ordered
+[INFO ] 2021-06-15 15:44:45.721 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:44:57.983 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:44:57.984 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:45:00.815 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:45:01.178 [main] ContactPage - Entered Forename on contact page as Tester5
+[INFO ] 2021-06-15 15:45:01.236 [main] ContactPage - Entered Email on contact page as tester5@gmail.com
+[INFO ] 2021-06-15 15:45:01.314 [main] ContactPage - Entered Message on contact page as Satisfied with the quality of the Toys
+[INFO ] 2021-06-15 15:45:01.441 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:45:22.318 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:45:22.320 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:45:25.175 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:45:25.590 [main] ShopPage - Added Funny Cow to cart
+[INFO ] 2021-06-15 15:45:25.686 [main] ShopPage - Added Funny Cow to cart
+[INFO ] 2021-06-15 15:45:25.862 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:45:26.267 [main] CartPage - 2 quantity of Funny Cow is added to cart
+[INFO ] 2021-06-15 15:45:26.343 [main] CartPage - 1 quantity of Fluffy Bunny is added to cart
+[INFO ] 2021-06-15 15:45:26.366 [main] CartPage - Total number of items added to cart is 3
+[INFO ] 2021-06-15 15:45:27.881 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:45:27.885 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:45:30.650 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:45:30.968 [main] ShopPage - Added Stuffed Frog to cart
+[INFO ] 2021-06-15 15:45:31.033 [main] ShopPage - Added Stuffed Frog to cart
+[INFO ] 2021-06-15 15:45:31.231 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:45:31.313 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:45:31.388 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:45:31.468 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:45:31.539 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:45:31.761 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:45:31.897 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:45:32.020 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:45:32.515 [main] CartPage - 2 quantity of Stuffed Frog is added to cart
+[INFO ] 2021-06-15 15:45:32.608 [main] CartPage - 5 quantity of Fluffy Bunny is added to cart
+[INFO ] 2021-06-15 15:45:32.699 [main] CartPage - 3 quantity of Valentine Bear is added to cart
+[INFO ] 2021-06-15 15:45:32.727 [main] CartPage - Total number of items added to cart is 10
+[INFO ] 2021-06-15 15:45:32.790 [main] CartPage - Stuffed Frog price in cart is same as listed price 10.99
+[INFO ] 2021-06-15 15:45:32.874 [main] CartPage - Stuffed Frog subtotal added to cart is 21.98
+[INFO ] 2021-06-15 15:45:32.931 [main] CartPage - Fluffy Bunny price in cart is same as listed price 9.99
+[INFO ] 2021-06-15 15:45:33.044 [main] CartPage - Fluffy Bunny subtotal added to cart is 49.95
+[INFO ] 2021-06-15 15:45:33.108 [main] CartPage - Valentine Bear price in cart is same as listed price 14.99
+[INFO ] 2021-06-15 15:45:33.236 [main] CartPage - Valentine Bear subtotal added to cart is 44.97
+[INFO ] 2021-06-15 15:45:33.252 [main] CartPage - Total price of items added to cart is 116.9
+[INFO ] 2021-06-15 15:47:38.942 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:47:38.959 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:47:42.256 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:47:42.667 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:47:42.714 [main] ContactPage - Validated Forename error message on contact page as Forename is required
+[INFO ] 2021-06-15 15:47:42.746 [main] ContactPage - Validated Email error message on contact page as Email is required
+[INFO ] 2021-06-15 15:47:42.781 [main] ContactPage - Validated Message error message on contact page as Message is required
+[INFO ] 2021-06-15 15:47:42.863 [main] ContactPage - Entered Forename on contact page as Sathiya
+[INFO ] 2021-06-15 15:47:42.933 [main] ContactPage - Entered Email on contact page as snarayanank@gmail.com
+[INFO ] 2021-06-15 15:47:43.011 [main] ContactPage - Entered Message on contact page as Enjoyed shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:47:53.111 [main] ContactPage - No Forename validation errors are present on the contact page
+[INFO ] 2021-06-15 15:48:03.162 [main] ContactPage - No email validation errors are present on the contact page
+[INFO ] 2021-06-15 15:48:13.178 [main] ContactPage - No message validation errors are present on the contact page
+[INFO ] 2021-06-15 15:48:15.179 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:48:15.191 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:48:18.137 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:48:18.513 [main] ContactPage - Entered Forename on contact page as Tester1
+[INFO ] 2021-06-15 15:48:18.584 [main] ContactPage - Entered Email on contact page as tester1@gmail.com
+[INFO ] 2021-06-15 15:48:18.671 [main] ContactPage - Entered Message on contact page as Enjoyed shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:48:18.818 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:48:34.846 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:48:34.850 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:48:37.962 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:48:38.324 [main] ContactPage - Entered Forename on contact page as Tester2
+[INFO ] 2021-06-15 15:48:38.385 [main] ContactPage - Entered Email on contact page as tester2@gmail.com
+[INFO ] 2021-06-15 15:48:38.465 [main] ContactPage - Entered Message on contact page as Not happy with shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:48:38.583 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:48:39.580 [main] ContactPage - Feedback submission confirmation => Thanks Tester2, we appreciate your feedback.
+[INFO ] 2021-06-15 15:48:40.983 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:48:40.988 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:48:43.803 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:48:44.167 [main] ContactPage - Entered Forename on contact page as Tester3
+[INFO ] 2021-06-15 15:48:44.228 [main] ContactPage - Entered Email on contact page as tester3@gmail.com
+[INFO ] 2021-06-15 15:48:44.307 [main] ContactPage - Entered Message on contact page as Need a refund for an incorrect order
+[INFO ] 2021-06-15 15:48:44.434 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:48:45.398 [main] ContactPage - Feedback submission confirmation => Thanks Tester3, we appreciate your feedback.
+[INFO ] 2021-06-15 15:48:46.639 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:48:46.652 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:48:49.448 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:48:49.852 [main] ContactPage - Entered Forename on contact page as Tester4
+[INFO ] 2021-06-15 15:48:49.909 [main] ContactPage - Entered Email on contact page as tester4@gmail.com
+[INFO ] 2021-06-15 15:48:49.974 [main] ContactPage - Entered Message on contact page as Not received the items that I ordered
+[INFO ] 2021-06-15 15:48:50.021 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:48:56.583 [main] ContactPage - Feedback submission confirmation => Thanks Tester4, we appreciate your feedback.
+[INFO ] 2021-06-15 15:48:57.871 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:48:57.874 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:49:00.740 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:49:01.056 [main] ContactPage - Entered Forename on contact page as Tester5
+[INFO ] 2021-06-15 15:49:01.110 [main] ContactPage - Entered Email on contact page as tester5@gmail.com
+[INFO ] 2021-06-15 15:49:01.173 [main] ContactPage - Entered Message on contact page as Satisfied with the quality of the Toys
+[INFO ] 2021-06-15 15:49:01.216 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:49:03.393 [main] ContactPage - Feedback submission confirmation => Thanks Tester5, we appreciate your feedback.
+[INFO ] 2021-06-15 15:49:04.672 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:49:04.673 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:49:07.588 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:49:07.960 [main] ShopPage - Added Funny Cow to cart
+[INFO ] 2021-06-15 15:49:08.065 [main] ShopPage - Added Funny Cow to cart
+[INFO ] 2021-06-15 15:49:08.245 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:49:08.623 [main] CartPage - 2 quantity of Funny Cow is added to cart
+[INFO ] 2021-06-15 15:49:08.696 [main] CartPage - 1 quantity of Fluffy Bunny is added to cart
+[INFO ] 2021-06-15 15:49:08.717 [main] CartPage - Total number of items added to cart is 3
+[INFO ] 2021-06-15 15:49:10.061 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2021-06-15 15:49:10.067 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:49:11.974 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:49:12.317 [main] ShopPage - Added Stuffed Frog to cart
+[INFO ] 2021-06-15 15:49:12.389 [main] ShopPage - Added Stuffed Frog to cart
+[INFO ] 2021-06-15 15:49:12.557 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:49:12.640 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:49:12.718 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:49:12.803 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:49:12.883 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:49:13.097 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:49:13.201 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:49:13.298 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:49:13.984 [main] CartPage - 2 quantity of Stuffed Frog is added to cart
+[INFO ] 2021-06-15 15:49:14.055 [main] CartPage - 5 quantity of Fluffy Bunny is added to cart
+[INFO ] 2021-06-15 15:49:14.135 [main] CartPage - 3 quantity of Valentine Bear is added to cart
+[INFO ] 2021-06-15 15:49:14.157 [main] CartPage - Total number of items added to cart is 10
+[INFO ] 2021-06-15 15:49:14.212 [main] CartPage - Stuffed Frog price in cart is same as listed price 10.99
+[INFO ] 2021-06-15 15:49:14.291 [main] CartPage - Stuffed Frog subtotal added to cart is 21.98
+[INFO ] 2021-06-15 15:49:14.341 [main] CartPage - Fluffy Bunny price in cart is same as listed price 9.99
+[INFO ] 2021-06-15 15:49:14.438 [main] CartPage - Fluffy Bunny subtotal added to cart is 49.95
+[INFO ] 2021-06-15 15:49:14.497 [main] CartPage - Valentine Bear price in cart is same as listed price 14.99
+[INFO ] 2021-06-15 15:49:14.605 [main] CartPage - Valentine Bear subtotal added to cart is 44.97
+[INFO ] 2021-06-15 15:49:14.619 [main] CartPage - Total price of items added to cart is 116.9
+[INFO ] 2021-06-15 15:49:52.105 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:49:52.107 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:49:56.665 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:49:57.154 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:49:57.183 [main] ContactPage - Validated Forename error message on contact page as Forename is required
+[INFO ] 2021-06-15 15:49:57.201 [main] ContactPage - Validated Email error message on contact page as Email is required
+[INFO ] 2021-06-15 15:49:57.217 [main] ContactPage - Validated Message error message on contact page as Message is required
+[INFO ] 2021-06-15 15:49:57.236 [main] ContactPage - Entered Forename on contact page as Sathiya
+[INFO ] 2021-06-15 15:49:57.267 [main] ContactPage - Entered Email on contact page as snarayanank@gmail.com
+[INFO ] 2021-06-15 15:49:57.300 [main] ContactPage - Entered Message on contact page as Enjoyed shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:50:07.320 [main] ContactPage - No Forename validation errors are present on the contact page
+[INFO ] 2021-06-15 15:50:17.329 [main] ContactPage - No email validation errors are present on the contact page
+[INFO ] 2021-06-15 15:50:27.337 [main] ContactPage - No message validation errors are present on the contact page
+[INFO ] 2021-06-15 15:50:30.283 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:50:30.283 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:50:33.605 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:50:33.950 [main] ContactPage - Entered Forename on contact page as Tester1
+[INFO ] 2021-06-15 15:50:33.983 [main] ContactPage - Entered Email on contact page as tester1@gmail.com
+[INFO ] 2021-06-15 15:50:34.015 [main] ContactPage - Entered Message on contact page as Enjoyed shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:50:34.285 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:50:35.608 [main] ContactPage - Feedback submission confirmation => Thanks Tester1, we appreciate your feedback.
+[INFO ] 2021-06-15 15:50:38.673 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:50:38.673 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:50:42.002 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:50:42.352 [main] ContactPage - Entered Forename on contact page as Tester2
+[INFO ] 2021-06-15 15:50:42.386 [main] ContactPage - Entered Email on contact page as tester2@gmail.com
+[INFO ] 2021-06-15 15:50:42.424 [main] ContactPage - Entered Message on contact page as Not happy with shopping at Jupiter Toys
+[INFO ] 2021-06-15 15:50:42.707 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:50:45.685 [main] ContactPage - Feedback submission confirmation => Thanks Tester2, we appreciate your feedback.
+[INFO ] 2021-06-15 15:50:54.792 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:50:54.792 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:50:58.365 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:50:58.632 [main] ContactPage - Entered Forename on contact page as Tester3
+[INFO ] 2021-06-15 15:50:58.660 [main] ContactPage - Entered Email on contact page as tester3@gmail.com
+[INFO ] 2021-06-15 15:50:58.697 [main] ContactPage - Entered Message on contact page as Need a refund for an incorrect order
+[INFO ] 2021-06-15 15:50:58.958 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:51:00.838 [main] ContactPage - Feedback submission confirmation => Thanks Tester3, we appreciate your feedback.
+[INFO ] 2021-06-15 15:51:03.760 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:51:03.760 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:51:07.091 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:51:07.366 [main] ContactPage - Entered Forename on contact page as Tester4
+[INFO ] 2021-06-15 15:51:07.397 [main] ContactPage - Entered Email on contact page as tester4@gmail.com
+[INFO ] 2021-06-15 15:51:07.434 [main] ContactPage - Entered Message on contact page as Not received the items that I ordered
+[INFO ] 2021-06-15 15:51:07.700 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:51:12.399 [main] ContactPage - Feedback submission confirmation => Thanks Tester4, we appreciate your feedback.
+[INFO ] 2021-06-15 15:51:15.343 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:51:15.344 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:51:18.861 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:51:19.136 [main] ContactPage - Entered Forename on contact page as Tester5
+[INFO ] 2021-06-15 15:51:19.163 [main] ContactPage - Entered Email on contact page as tester5@gmail.com
+[INFO ] 2021-06-15 15:51:19.199 [main] ContactPage - Entered Message on contact page as Satisfied with the quality of the Toys
+[INFO ] 2021-06-15 15:51:19.457 [main] ContactPage - Clicked Submit button on Contact Page
+[INFO ] 2021-06-15 15:51:21.754 [main] ContactPage - Feedback submission confirmation => Thanks Tester5, we appreciate your feedback.
+[INFO ] 2021-06-15 15:51:24.552 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:51:24.552 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:51:28.203 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:51:28.729 [main] ShopPage - Added Funny Cow to cart
+[INFO ] 2021-06-15 15:51:29.008 [main] ShopPage - Added Funny Cow to cart
+[INFO ] 2021-06-15 15:51:29.319 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:51:29.691 [main] CartPage - 2 quantity of Funny Cow is added to cart
+[INFO ] 2021-06-15 15:51:29.744 [main] CartPage - 1 quantity of Fluffy Bunny is added to cart
+[INFO ] 2021-06-15 15:51:29.757 [main] CartPage - Total number of items added to cart is 3
+[INFO ] 2021-06-15 15:51:32.267 [main] Base - ===>Firefox Browser Started<====
+[INFO ] 2021-06-15 15:51:32.268 [main] Base - ===>Browser Session Started<====
+[INFO ] 2021-06-15 15:51:35.760 [main] ContactSteps - Page title is Jupiter Toys
+[INFO ] 2021-06-15 15:51:36.250 [main] ShopPage - Added Stuffed Frog to cart
+[INFO ] 2021-06-15 15:51:36.493 [main] ShopPage - Added Stuffed Frog to cart
+[INFO ] 2021-06-15 15:51:36.785 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:51:37.036 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:51:37.292 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:51:37.549 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:51:37.808 [main] ShopPage - Added Fluffy Bunny to cart
+[INFO ] 2021-06-15 15:51:38.123 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:51:38.396 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:51:38.667 [main] ShopPage - Added Valentine Bear to cart
+[INFO ] 2021-06-15 15:51:39.007 [main] CartPage - 2 quantity of Stuffed Frog is added to cart
+[INFO ] 2021-06-15 15:51:39.060 [main] CartPage - 5 quantity of Fluffy Bunny is added to cart
+[INFO ] 2021-06-15 15:51:39.119 [main] CartPage - 3 quantity of Valentine Bear is added to cart
+[INFO ] 2021-06-15 15:51:39.132 [main] CartPage - Total number of items added to cart is 10
+[INFO ] 2021-06-15 15:51:39.189 [main] CartPage - Stuffed Frog price in cart is same as listed price 10.99
+[INFO ] 2021-06-15 15:51:39.269 [main] CartPage - Stuffed Frog subtotal added to cart is 21.98
+[INFO ] 2021-06-15 15:51:39.308 [main] CartPage - Fluffy Bunny price in cart is same as listed price 9.99
+[INFO ] 2021-06-15 15:51:39.382 [main] CartPage - Fluffy Bunny subtotal added to cart is 49.95
+[INFO ] 2021-06-15 15:51:39.431 [main] CartPage - Valentine Bear price in cart is same as listed price 14.99
+[INFO ] 2021-06-15 15:51:39.917 [main] CartPage - Valentine Bear subtotal added to cart is 44.97
+[INFO ] 2021-06-15 15:51:39.924 [main] CartPage - Total price of items added to cart is 116.9

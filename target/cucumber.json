@@ -1,0 +1,1196 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3998782000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Jupiter Toys home page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_is_on_jupiter_toys_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-15T07:49:43.471Z",
+        "before": [
+          {
+            "result": {
+              "duration": 9133536000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Validate mandatory fields on contact page",
+        "description": "",
+        "id": "validate-jupiter-toys-contact-page;validate-mandatory-fields-on-contact-page",
+        "after": [
+          {
+            "output": [
+              "Scenarios executed in environment: sit and Browser: FIREFOX at 15:50:27.338903"
+            ],
+            "result": {
+              "duration": 509914000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 241040000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User goes to Contact Page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_goes_to_contact_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 242539000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User clicks submit button",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_clicks_submit_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 63213000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Validate errors on contact page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.validate_errors_on_contact_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 82631000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User populate mandatory fields",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_populate_mandatory_fields(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "ForeName",
+                  "Email",
+                  "Message"
+                ]
+              },
+              {
+                "cells": [
+                  "Sathiya",
+                  "snarayanank@gmail.com",
+                  "Enjoyed shopping at Jupiter Toys"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 30036173000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Validate no errors on contact page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.validate_no_errors_on_contact_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@TC_001"
+          },
+          {
+            "name": "@Contact"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2779702000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Jupiter Toys home page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_is_on_jupiter_toys_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-15T07:50:27.863Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2964420000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Validate successful feedback submission on contact page",
+        "description": "",
+        "id": "validate-jupiter-toys-contact-page;validate-successful-feedback-submission-on-contact-page;;2",
+        "after": [
+          {
+            "output": [
+              "Scenarios executed in environment: sit and Browser: FIREFOX at 15:50:35.609167"
+            ],
+            "result": {
+              "duration": 515802000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 235704000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User goes to Contact Page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_goes_to_contact_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 171456000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User populate mandatory fields \"Tester1\" \"tester1@gmail.com\" \"Enjoyed shopping at Jupiter Toys\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester1\"",
+                  "offset": 31
+                },
+                {
+                  "val": "\"tester1@gmail.com\"",
+                  "offset": 41
+                },
+                {
+                  "val": "\"Enjoyed shopping at Jupiter Toys\"",
+                  "offset": 61
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_populate_mandatory_fields(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 269602000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User clicks submit button",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_clicks_submit_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1322207000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Validate successful submission message for user \"Tester1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester1\"",
+                  "offset": 48
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.validate_successful_submission_message_for_user(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@TC_002"
+          },
+          {
+            "name": "@Contact"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2771902000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Jupiter Toys home page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_is_on_jupiter_toys_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-15T07:50:36.131Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3098795000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Validate successful feedback submission on contact page",
+        "description": "",
+        "id": "validate-jupiter-toys-contact-page;validate-successful-feedback-submission-on-contact-page;;3",
+        "after": [
+          {
+            "output": [
+              "Scenarios executed in environment: sit and Browser: FIREFOX at 15:50:45.686014"
+            ],
+            "result": {
+              "duration": 496954000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 247836000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User goes to Contact Page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_goes_to_contact_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 171973000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User populate mandatory fields \"Tester2\" \"tester2@gmail.com\" \"Not happy with shopping at Jupiter Toys\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester2\"",
+                  "offset": 31
+                },
+                {
+                  "val": "\"tester2@gmail.com\"",
+                  "offset": 41
+                },
+                {
+                  "val": "\"Not happy with shopping at Jupiter Toys\"",
+                  "offset": 61
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_populate_mandatory_fields(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 281423000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User clicks submit button",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_clicks_submit_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2978031000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Validate successful submission message for user \"Tester2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester2\"",
+                  "offset": 48
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.validate_successful_submission_message_for_user(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@TC_002"
+          },
+          {
+            "name": "@Contact"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3023603000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Jupiter Toys home page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_is_on_jupiter_toys_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-15T07:50:46.190Z",
+        "before": [
+          {
+            "result": {
+              "duration": 9154936000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 28,
+        "name": "Validate successful feedback submission on contact page",
+        "description": "",
+        "id": "validate-jupiter-toys-contact-page;validate-successful-feedback-submission-on-contact-page;;4",
+        "after": [
+          {
+            "output": [
+              "Scenarios executed in environment: sit and Browser: FIREFOX at 15:51:00.838515"
+            ],
+            "result": {
+              "duration": 489267000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 236015000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User goes to Contact Page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_goes_to_contact_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 90912000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User populate mandatory fields \"Tester3\" \"tester3@gmail.com\" \"Need a refund for an incorrect order\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester3\"",
+                  "offset": 31
+                },
+                {
+                  "val": "\"tester3@gmail.com\"",
+                  "offset": 41
+                },
+                {
+                  "val": "\"Need a refund for an incorrect order\"",
+                  "offset": 61
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_populate_mandatory_fields(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 261284000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User clicks submit button",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_clicks_submit_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1879039000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Validate successful submission message for user \"Tester3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester3\"",
+                  "offset": 48
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.validate_successful_submission_message_for_user(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@TC_002"
+          },
+          {
+            "name": "@Contact"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2786672000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Jupiter Toys home page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_is_on_jupiter_toys_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-15T07:51:01.333Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2972913000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 29,
+        "name": "Validate successful feedback submission on contact page",
+        "description": "",
+        "id": "validate-jupiter-toys-contact-page;validate-successful-feedback-submission-on-contact-page;;5",
+        "after": [
+          {
+            "output": [
+              "Scenarios executed in environment: sit and Browser: FIREFOX at 15:51:12.399937"
+            ],
+            "result": {
+              "duration": 502485000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 245494000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User goes to Contact Page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_goes_to_contact_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 94866000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User populate mandatory fields \"Tester4\" \"tester4@gmail.com\" \"Not received the items that I ordered\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester4\"",
+                  "offset": 31
+                },
+                {
+                  "val": "\"tester4@gmail.com\"",
+                  "offset": 41
+                },
+                {
+                  "val": "\"Not received the items that I ordered\"",
+                  "offset": 61
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_populate_mandatory_fields(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 266508000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User clicks submit button",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_clicks_submit_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4698504000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Validate successful submission message for user \"Tester4\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester4\"",
+                  "offset": 48
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.validate_successful_submission_message_for_user(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@TC_002"
+          },
+          {
+            "name": "@Contact"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2976835000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Jupiter Toys home page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_is_on_jupiter_toys_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-15T07:51:12.908Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2981760000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "Validate successful feedback submission on contact page",
+        "description": "",
+        "id": "validate-jupiter-toys-contact-page;validate-successful-feedback-submission-on-contact-page;;6",
+        "after": [
+          {
+            "output": [
+              "Scenarios executed in environment: sit and Browser: FIREFOX at 15:51:21.754970"
+            ],
+            "result": {
+              "duration": 489322000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 237538000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User goes to Contact Page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_goes_to_contact_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 93655000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User populate mandatory fields \"Tester5\" \"tester5@gmail.com\" \"Satisfied with the quality of the Toys\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester5\"",
+                  "offset": 31
+                },
+                {
+                  "val": "\"tester5@gmail.com\"",
+                  "offset": 41
+                },
+                {
+                  "val": "\"Satisfied with the quality of the Toys\"",
+                  "offset": 61
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_populate_mandatory_fields(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 257305000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User clicks submit button",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_clicks_submit_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2297286000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Validate successful submission message for user \"Tester5\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tester5\"",
+                  "offset": 48
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.validate_successful_submission_message_for_user(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@TC_002"
+          },
+          {
+            "name": "@Contact"
+          }
+        ]
+      }
+    ],
+    "name": "Validate Jupiter Toys contact page",
+    "description": "",
+    "id": "validate-jupiter-toys-contact-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/com/planittesting/cloud/jupiter/features/Contact.feature",
+    "tags": [
+      {
+        "name": "@Regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3112637000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Jupiter Toys home page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_is_on_jupiter_toys_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-15T07:51:22.248Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2842735000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Add items to cart in Shop page and verify count",
+        "description": "",
+        "id": "validate-jupiter-toys-shopping-scenarios;add-items-to-cart-in-shop-page-and-verify-count",
+        "after": [
+          {
+            "output": [
+              "Scenarios executed in environment: sit and Browser: FIREFOX at 15:51:29.758315"
+            ],
+            "result": {
+              "duration": 507664000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 235723000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User goes to Shop Page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_goes_to_shop_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 627002000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User clicks buy button 2 times on \"Funny Cow\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Funny Cow\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_clicks_buy_button_times_on(java.lang.Integer,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 297933000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User clicks buy button 1 times on \"Fluffy Bunny\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Fluffy Bunny\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_clicks_buy_button_times_on(java.lang.Integer,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 219780000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User clicks cart menu",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_clicks_cart_menu()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 169891000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User verifies the items are in the cart",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_verifies_the_items_are_in_the_cart()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@TC_003"
+          },
+          {
+            "name": "@Shop"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2915199000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Jupiter Toys home page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ContactSteps.user_is_on_jupiter_toys_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-15T07:51:30.270Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2575779000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.initialize()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Add items to cart in Shop page and verify price \u0026 total",
+        "description": "",
+        "id": "validate-jupiter-toys-shopping-scenarios;add-items-to-cart-in-shop-page-and-verify-price-\u0026-total",
+        "after": [
+          {
+            "output": [
+              "Scenarios executed in environment: sit and Browser: FIREFOX at 15:51:39.924840"
+            ],
+            "result": {
+              "duration": 474121000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 233703000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User goes to Shop Page",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_goes_to_shop_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 537576000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User clicks buy button 2 times on \"Stuffed Frog\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Stuffed Frog\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_clicks_buy_button_times_on(java.lang.Integer,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1323367000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User clicks buy button 5 times on \"Fluffy Bunny\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Fluffy Bunny\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_clicks_buy_button_times_on(java.lang.Integer,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 874709000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User clicks buy button 3 times on \"Valentine Bear\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Valentine Bear\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_clicks_buy_button_times_on(java.lang.Integer,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 213591000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User clicks cart menu",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_clicks_cart_menu()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 186132000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User verifies the items are in the cart",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_verifies_the_items_are_in_the_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 792097000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User verifies the price and total for each product",
+            "match": {
+              "location": "com.planittesting.cloud.jupiter.stepDefinitions.ShopSteps.user_verifies_the_price_and_total_for_each_product()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@TC_004"
+          },
+          {
+            "name": "@Shop"
+          }
+        ]
+      }
+    ],
+    "name": "Validate Jupiter Toys Shopping scenarios",
+    "description": "",
+    "id": "validate-jupiter-toys-shopping-scenarios",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/com/planittesting/cloud/jupiter/features/Shop.feature",
+    "tags": [
+      {
+        "name": "@Regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
