@@ -66,11 +66,38 @@ Planit/planit.log
 
 ## Other questions
 1. What other possible scenario’s would you suggest for testing the Jupiter Toys application?
-
+      a. Test user login with valid and invalid data and with customer level
+      b. Go to shop page using 'Start Shopping' button
+      c. On Contact page click on the Labels of mandatory fields and check the error messages
+      d. Test with invalid email address and validate the error message
+      e. On the cart page, try increasing or reducing the quantity and validate
+      f. Remove items from the cart and validate (Clicking Yes and No on confirmation)
+      g. Empty cart and validate (Clicking Yes and No on confirmation)
+      h. Validate Checkout button
+      i. From cart go back to shop page, add more items and validate
 
 2. Jupiter Toys is expected to grow and expand its offering into books, tech, and modern art. 
    We are expecting the of tests will grow to a very large number.
     - What approaches could you used to reduce overall execution time?
     - How will your framework cater for this?
+      a. I would use selenium grid to have parallel test execution
+      b. Use dynamic timeouts (fluent wait, explicit wait etc) to control the test run time
+      c. I would use Headless test execution where possible
+      d. I would use API to create data or any pre-requisite where possible instead of using UI for faster execution
+      e. Use CI tools like Jenkins to manage regression test execution
+      f. Use docker for test execution using tools like Zalenium
+      This framework can be enhanced to accommodate all the above said recommendations, while some of them are already there.
     
-3. Describe when to use a BDD approach to automation and when NOT to use BDD 
+3. Describe when to use a BDD approach to automation and when NOT to use BDD
+   I would use BDD approach for the following reasons,
+    a. BDD will be useful to collaborate business users, developers and testers.
+    b. To improve communication, drive consistency in specification and avoid misunderstandings
+    c. Helps to maintain a living documentation and no need to maintain separate test case
+    d. When we want to write tests/automation scripts before the code is developed
+    e. When we want the testers to get involved very early in the project lifecycle
+   I won't use BDD for the below reasons,
+    a. If the project is not on agile
+    b. If the project is small and one-off projects
+    c. If it's an existing project and requires a lot of effort to switch
+    d. When it's difficult to work with business users
+    e. When we develop the code first
